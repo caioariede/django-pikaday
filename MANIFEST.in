@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+
+recursive-include djpikay/static *
+recursive-include djpikay/locale *
+recursive-include djpikay/ *.py
